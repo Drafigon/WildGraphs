@@ -1,0 +1,12 @@
+
+vertices
+V4 -- pos: 741, 187 -- weight: 1 -- type: vertextype_1
+V3 -- pos: 696, 350 -- weight: 1 -- type: vertextype_1
+V1 -- pos: 459, 225 -- weight: 1 -- type: vertextype_1
+V2 -- pos: 566, 389 -- weight: 1 -- type: vertextype_1
+
+
+vertextype
+vertextype_1 -- size: 40 -- incolor: 255, 255, 255 -- outcolor: 0, 0, 0 -- showText: true -- stroke: 2.0 -- shape: Round
+
+.:|:.

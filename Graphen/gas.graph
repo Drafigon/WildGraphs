@@ -1,0 +1,45 @@
+
+vertices
+V1 -- pos: 382, 158 -- weight: 1 -- type: vertextype_1
+
+
+vertextype
+vertextype_1 -- size: 40 -- incolor: 255, 255, 255 -- outcolor: 0, 0, 0 -- showText: true -- stroke: 2.0 -- shape: Round
+
+.:|:.
+
+vertices
+V1 -- pos: 382, 158 -- weight: 1 -- type: vertextype_2
+V2 -- pos: 761, 356 -- weight: 1 -- type: vertextype_1
+
+
+vertextype
+vertextype_1 -- size: 40 -- incolor: 255, 255, 255 -- outcolor: 0, 0, 0 -- showText: true -- stroke: 2.0 -- shape: Round
+vertextype_2 -- size: 40 -- incolor: 255, 255, 255 -- outcolor: 51, 0, 204 -- showText: true -- stroke: 2.0 -- shape: Round
+
+.:|:.
+
+vertices
+V1 -- pos: 382, 158 -- weight: 1 -- type: vertextype_1
+V2 -- pos: 761, 356 -- weight: 1 -- type: vertextype_2
+V3 -- pos: 446, 575 -- weight: 1 -- type: vertextype_1
+
+
+vertextype
+vertextype_2 -- size: 40 -- incolor: 255, 255, 255 -- outcolor: 51, 0, 204 -- showText: true -- stroke: 2.0 -- shape: Round
+vertextype_1 -- size: 40 -- incolor: 255, 255, 255 -- outcolor: 0, 0, 0 -- showText: true -- stroke: 2.0 -- shape: Round
+
+.:|:.
+
+vertices
+V4 -- pos: 253, 391 -- weight: 1 -- type: vertextype_2
+V1 -- pos: 382, 158 -- weight: 1 -- type: vertextype_1
+V2 -- pos: 761, 356 -- weight: 1 -- type: vertextype_2
+V3 -- pos: 446, 575 -- weight: 1 -- type: vertextype_1
+
+
+vertextype
+vertextype_1 -- size: 40 -- incolor: 255, 255, 255 -- outcolor: 51, 0, 204 -- showText: true -- stroke: 2.0 -- shape: Round
+vertextype_2 -- size: 40 -- incolor: 255, 255, 255 -- outcolor: 0, 0, 0 -- showText: true -- stroke: 2.0 -- shape: Round
+
+.:|:.

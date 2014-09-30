@@ -1,0 +1,28 @@
+->
+
+edges
+V1, V2 -- weight: 1 -- type: edgetype_1 -- curvePoint: 243, 275
+V6, V8 -- weight: 1 -- type: edgetype_1 -- curvePoint: 696, 285
+V3, V4 -- weight: 1 -- type: edgetype_1 -- curvePoint: 379, 451
+V7, V6 -- weight: 1 -- type: edgetype_1 -- curvePoint: 603, 250
+V3, V5 -- weight: 1 -- type: edgetype_1 -- curvePoint: 431, 449
+V1, V3 -- weight: 1 -- type: edgetype_1 -- curvePoint: 344, 280
+V7, V8 -- weight: 1 -- type: edgetype_1 -- curvePoint: 649, 348
+
+vertices
+V7 -- pos: 556, 313 -- weight: 1 -- type: vertextype_1
+V6 -- pos: 651, 187 -- weight: 1 -- type: vertextype_1
+V8 -- pos: 742, 383 -- weight: 1 -- type: vertextype_1
+V1 -- pos: 293, 186 -- weight: 1 -- type: vertextype_1
+V4 -- pos: 362, 529 -- weight: 1 -- type: vertextype_1
+V5 -- pos: 466, 524 -- weight: 1 -- type: vertextype_1
+V2 -- pos: 193, 365 -- weight: 1 -- type: vertextype_1
+V3 -- pos: 396, 374 -- weight: 1 -- type: vertextype_1
+
+edgetype
+edgetype_1 -- color: 0, 0, 0 -- showText: true -- shape: Normal -- stroke: 2.0 -- arrowsize: 20
+
+vertextype
+vertextype_1 -- size: 40 -- incolor: 255, 255, 255 -- outcolor: 0, 0, 0 -- showText: true -- stroke: 2.0 -- shape: Round
+
+.:|:.

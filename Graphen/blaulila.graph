@@ -1,0 +1,90 @@
+
+vertices
+V4 -- pos: 463, 500 -- weight: 1 -- type: vertextype_1
+V2 -- pos: 513, 8 -- weight: 1 -- type: vertextype_1
+V1 -- pos: 228, 251 -- weight: 1 -- type: vertextype_1
+V3 -- pos: 730, 302 -- weight: 1 -- type: vertextype_1
+
+
+vertextype
+vertextype_1 -- size: 40 -- incolor: 255, 255, 255 -- outcolor: 0, 0, 255 -- showText: true -- stroke: 2.0 -- shape: Round
+
+.:|:.
+->
+
+edges
+V1, V2 -- weight: 1 -- type: edgetype_1 -- curvePoint: 370, 130
+
+vertices
+V4 -- pos: 463, 500 -- weight: 1 -- type: vertextype_1
+V1 -- pos: 228, 251 -- weight: 1 -- type: vertextype_1
+V2 -- pos: 513, 8 -- weight: 1 -- type: vertextype_1
+V3 -- pos: 730, 302 -- weight: 1 -- type: vertextype_1
+
+edgetype
+edgetype_1 -- color: 204, 51, 255 -- showText: true -- shape: Normal -- stroke: 2.0 -- arrowsize: 20
+
+vertextype
+vertextype_1 -- size: 40 -- incolor: 255, 255, 255 -- outcolor: 0, 0, 255 -- showText: true -- stroke: 2.0 -- shape: Round
+
+.:|:.
+->
+
+edges
+V1, V2 -- weight: 1 -- type: edgetype_1 -- curvePoint: 370, 130
+V2, V3 -- weight: 1 -- type: edgetype_1 -- curvePoint: 621, 155
+
+vertices
+V2 -- pos: 513, 8 -- weight: 1 -- type: vertextype_1
+V4 -- pos: 463, 500 -- weight: 1 -- type: vertextype_1
+V3 -- pos: 730, 302 -- weight: 1 -- type: vertextype_1
+V1 -- pos: 228, 251 -- weight: 1 -- type: vertextype_1
+
+edgetype
+edgetype_1 -- color: 204, 51, 255 -- showText: true -- shape: Normal -- stroke: 2.0 -- arrowsize: 20
+
+vertextype
+vertextype_1 -- size: 40 -- incolor: 255, 255, 255 -- outcolor: 0, 0, 255 -- showText: true -- stroke: 2.0 -- shape: Round
+
+.:|:.
+->
+
+edges
+V1, V2 -- weight: 1 -- type: edgetype_1 -- curvePoint: 370, 130
+V3, V4 -- weight: 1 -- type: edgetype_1 -- curvePoint: 597, 401
+V2, V3 -- weight: 1 -- type: edgetype_1 -- curvePoint: 621, 155
+
+vertices
+V4 -- pos: 463, 500 -- weight: 1 -- type: vertextype_1
+V2 -- pos: 513, 8 -- weight: 1 -- type: vertextype_1
+V3 -- pos: 730, 302 -- weight: 1 -- type: vertextype_1
+V1 -- pos: 228, 251 -- weight: 1 -- type: vertextype_1
+
+edgetype
+edgetype_1 -- color: 204, 51, 255 -- showText: true -- shape: Normal -- stroke: 2.0 -- arrowsize: 20
+
+vertextype
+vertextype_1 -- size: 40 -- incolor: 255, 255, 255 -- outcolor: 0, 0, 255 -- showText: true -- stroke: 2.0 -- shape: Round
+
+.:|:.
+->
+
+edges
+V4, V1 -- weight: 1 -- type: edgetype_1 -- curvePoint: 346, 376
+V2, V3 -- weight: 1 -- type: edgetype_1 -- curvePoint: 621, 155
+V3, V4 -- weight: 1 -- type: edgetype_1 -- curvePoint: 597, 401
+V1, V2 -- weight: 1 -- type: edgetype_1 -- curvePoint: 370, 130
+
+vertices
+V4 -- pos: 463, 500 -- weight: 1 -- type: vertextype_1
+V3 -- pos: 730, 302 -- weight: 1 -- type: vertextype_1
+V1 -- pos: 228, 251 -- weight: 1 -- type: vertextype_1
+V2 -- pos: 513, 8 -- weight: 1 -- type: vertextype_1
+
+edgetype
+edgetype_1 -- color: 204, 51, 255 -- showText: true -- shape: Normal -- stroke: 2.0 -- arrowsize: 20
+
+vertextype
+vertextype_1 -- size: 40 -- incolor: 255, 255, 255 -- outcolor: 0, 0, 255 -- showText: true -- stroke: 2.0 -- shape: Round
+
+.:|:.
